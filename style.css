@@ -1,0 +1,44 @@
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+}
+
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  color: #002147;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 30px;
+}
+
+.nav-link:hover{
+
+}
+
+.tombol{
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+.jumbotron{
+  background-image: url("cop1.jpg");
+  background-size: cover;
+  height: 640px;
+  margin-top: -70px;
+  text-align: center;
+}
+
+.navbar-brand, .nav-link{
+  color: light !important;
+
+}
+
+.jumbotron .display-4{
+  color: white;
+  margin-top: 200px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+}
